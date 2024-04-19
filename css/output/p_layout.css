@@ -1606,9 +1606,10 @@
   background-repeat: no-repeat;
   background-size: auto 100%;
 }
-#footer .f-cnt .f-link .link-sns a.instagram {
+/* KRDS에서 현재 INSTAR관련 소스가 뜨지않고있습니다 주석. - SH 240419 */
+/* #footer .f-cnt .f-link .link-sns a.instagram {
   background-image: url(../../img/pattern/layout/foot_ico_sns_Instagram.svg);
-}
+} */
 #footer .f-cnt .f-link .link-sns a.youtube {
   background-image: url(../../img/pattern/layout/foot_ico_sns_youtube.svg);
 }
