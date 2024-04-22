@@ -2019,7 +2019,7 @@
   align-items: normal;
   justify-content: flex-start;
   flex-direction: column;
-  gap: var(--krds-spacer-6);
+  /* gap: var(--krds-spacer-5); */
   padding: var(--krds-spacer-6);
   overflow-x: auto;
   box-sizing: border-box;
