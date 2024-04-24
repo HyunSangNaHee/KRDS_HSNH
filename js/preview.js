@@ -5,3 +5,12 @@ document.querySelectorAll('.previewBox').forEach(item => {
         document.querySelector('#modal_sample .conts-area').innerHTML = contsWrapHTML;
     });
 });
+
+$('.search-list li').on('click', function () {
+    if ($(this).hasClass('minusScale-caller')) $('.modal-conts').addClass('minusScale-element');
+    else $('.modal-conts').removeClass('minusScale-element');
+});
+
+
+
+
