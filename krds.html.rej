@@ -1,0 +1,9 @@
+diff a/krds.html b/krds.html	(rejected hunks)
+@@ -25,6 +25,7 @@
+     <link rel="stylesheet" href="css/style.css">
+ 	<link rel="stylesheet" href="css/swiper-bundle.min.css">
+ 
++
+ 	<!-- ?ㅽщ┰??TOP -->
+ 	<script src="js/jquery.min.js"></script>
+ 	<script src="js/ui-pattern-script.js"></script>
