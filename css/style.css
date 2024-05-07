@@ -30,6 +30,9 @@ body {
 .modalContents {
   display: none;
 }
+.modal-conts {
+  /* pointer-events: none; */
+}
 
 /* 카드 호버시 - 240422 김현아 추가 */
 .main .search-list .li:hover {
